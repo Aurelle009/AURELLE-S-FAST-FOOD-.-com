@@ -1,0 +1,49 @@
+.carousel-inner{
+    width: 250px;
+    height: 300px;
+}
+
+#img1{
+    position: absolute;
+    width: 550px;
+    height: 1000px;
+}
+
+body{
+    background-image: url(ffff.jpg);
+
+}
+
+h1{
+
+    text-align: center;
+    font-weight: 4000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#a1{
+    margin-top: 20px;
+}
+#b1{
+    margin-top: 20px;
+}
+#c1{
+    margin-top: 20px;
+}
+#d1{
+    margin-top: 20px;
+}
+
+#moi{
+    margin:    100px;
+}
+
+#ice{
+    width: 100px;
+    height: 100px;
+}
+
+.OR{
+    background-color: gray;
+}
